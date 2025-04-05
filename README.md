@@ -1,6 +1,6 @@
 # Onitama
 
-Onitama nevű japán táblajáték Java nyelven.  
+Onitama nevű japán táblajáték Java nyelven. A játék célja leütni az ellenfél királyát vagy a kezdő pozíciójának elfoglalása a saját királlyal. A lépéshez használt kártya az ellenfélhez kerül a következő körben.
 Programozás alapjai 3 nagyházi (2023).
 
 **Fordítás, futtatás:**   
