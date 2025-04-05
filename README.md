@@ -1,6 +1,6 @@
 # Onitama
 
-**Programozás alapjai 3 nagyházi (2023)**
+**Programozás alapjai 3 nagyházi (2023 ősz)**
 
 Onitama nevű japán táblajáték Java nyelven. A játék célja leütni az ellenfél királyát vagy a kezdő pozíciójának elfoglalása a saját királlyal. A lépéshez használt kártya az ellenfélhez kerül a következő körben.
 
