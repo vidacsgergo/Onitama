@@ -14,7 +14,7 @@ public class GameFrame extends JFrame{
         this.playerWhite = playerWhite;
         this.getPlayerBlack = playerBlack;
 
-        ImageIcon icon = new ImageIcon("icon.png");
+        ImageIcon icon = new ImageIcon("./resources/" + "icon.png");
         this.setIconImage(icon.getImage());
         this.setTitle("Onitama");
 

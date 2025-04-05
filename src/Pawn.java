@@ -29,16 +29,16 @@ public class Pawn extends JButton implements Serializable{
         //Ikonok beállítása
         switch(this.role){
             case "blackPawn":
-                this.setIcon(new ImageIcon("blackPawn.png"));
+                this.setIcon(new ImageIcon("./resources/" + "blackPawn.png"));
                 break;
             case "blackKing":
-                this.setIcon(new ImageIcon("blackKing.png"));
+                this.setIcon(new ImageIcon("./resources/" + "blackKing.png"));
                 break;
             case "whitePawn":
-                this.setIcon(new ImageIcon("whitePawn.png"));
+                this.setIcon(new ImageIcon("./resources/" + "whitePawn.png"));
                 break;
             case "whiteKing":
-                this.setIcon(new ImageIcon("whiteKing.png"));
+                this.setIcon(new ImageIcon("./resources/" + "whiteKing.png"));
                 break;
             case "blank":
                 this.setText(this.position.toString());

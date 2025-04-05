@@ -21,8 +21,8 @@ public class Card extends JButton implements Serializable{
         this.selected = false;
         this.setActionCommand("card");
         this.color = color;
-        this.whiteIcon = new ImageIcon(name+"White.png");
-        this.blackIcon = new ImageIcon(name+"Black.png");
+        this.whiteIcon = new ImageIcon("./resources/" + name+"White.png");
+        this.blackIcon = new ImageIcon("./resources/" + name+"Black.png");
         this.setBackground(Color.WHITE);
         this.setFocusable(false);
 
